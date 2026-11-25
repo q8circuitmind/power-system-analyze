@@ -1,4 +1,4 @@
-# Power System Analyzer
+# Power System Analyzer💡
 
 Three-phase power system analysis engine.
 
